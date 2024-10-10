@@ -4,8 +4,9 @@ Python is a powerful, high-level programming language created by Guido van Rossu
 
 Python's flexibility and extensive libraries make it a popular tool for hackers and security professionals. Many essential cybersecurity tools, including Metasploit, Scapy, and Pwntools, rely on Python due to its ease of use and efficiency in automating tasks. Whether you're looking to perform network scanning, cryptographic operations, or exploit development, Python offers a vast ecosystem that can help you quickly write scripts and automate workflows.
 
-This repository is designed to teach ethical hacking using Python. You'll find scripts and tools that cover various aspects of cybersecurity, including:
 
+
+This repository is designed to teach ethical hacking using Python. You'll find scripts and tools that cover various aspects of cybersecurity, including:
 Network Scanning
 Web Exploitation
 Cryptography
